@@ -1,0 +1,6 @@
+{
+    "routes": [],
+    "defaultHeaders": {
+        "referrer-policy": "no-referrer-when-downgrade"
+    }
+}

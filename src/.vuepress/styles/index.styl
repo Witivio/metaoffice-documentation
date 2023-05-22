@@ -1,8 +1,44 @@
-/**
- * Custom Styles here.
- *
- * ref：https://v1.vuepress.vuejs.org/config/#index-styl
- */
+h1
+  font-size 2.2rem
+
+h2
+  font-size 1.65rem
+  padding-bottom .3rem
+  border-bottom none
+
+.sidebar-link
+  text-transform capitalize
+
+.sidebar-heading
+  text-transform capitalize
+  font-size 18px !important
+  color gray !important
+.sidebar-heading:hover, .sidebar-heading.open 
+  color #903163 !important
+  text-decoration none #903163
 
 .home .hero img
   max-width 450px!important
+ 
+.theme-default-content:not(.custom)
+  max-width 100%
+
+// Override Logo
+.navbar .logo
+  height 1.2rem !important
+  vertical-align text-top !important
+
+
+// Common for all page
+.justify
+  text-align center
+
+
+@media (max-width 1200px)
+  .video_embed
+    width: 100%
+    height: 100%
+
+@media (min-width: 1200px)
+  .theme-default-content:not(.custom) img
+    max-width 100%

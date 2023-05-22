@@ -11,3 +11,7 @@ cd docs
 yarn install
 yarn dev
 ```
+
+# Folder naming convention
+Directory names in lower case
+Replace spaces with "-".
