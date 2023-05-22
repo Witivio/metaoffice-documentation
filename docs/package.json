@@ -1,0 +1,19 @@
+{
+  "name": "metaoffice-documentation",
+  "version": "0.0.1",
+  "description": "The user documentation for MetaOffice",
+  "main": "index.js",
+  "authors": {
+    "name": "Tanguy",
+    "email": "tdechanterac@witivio.com"
+  },
+  "repository": "https://github.com/Witivio/metaoffice-documentation",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
