@@ -44,11 +44,15 @@ module.exports = {
       '/guide/': [
         {
           title: 'Guide',
+          path:'/guide/install',
           collapsable: false,
           children: [
-            '',
-            'using-vue',
+            ['install.md', 'Installation'],
+            ['login.md', 'Log in'],
+            ['features.md', 'Features'],
+            ['user-interactions.md', 'User interactions'],
           ]
+
         }
       ],
     }

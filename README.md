@@ -4,6 +4,7 @@ This repository contains comprehensive user documentation for MetaOffice within 
 ## Prerequisites
 
 - [Node.js 10+](https://nodejs.org/en)
+- [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
 
 ## Quick Start
 ```sh
