@@ -29,13 +29,13 @@ Once the Teams administrator has authorized the MetaOffice application for all u
 
 Open the team where you want to install the MetaOffice application.
 
-![Installation dans un tab d'équipe](/assets/img/tabplus.png)
+![Install in a tab](/assets/img/tabplus.png)
 
 Click on the "+" button at the top of the screen to add a new tab.
 
 From the list of available applications, select MetaOffice.
 
-![Sélectionner l'application](/assets/img/apps.png)
+![Select your app](/assets/img/apps.png)
 
 Name the tab, then click on "Add".
 

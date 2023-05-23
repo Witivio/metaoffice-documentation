@@ -1,36 +1,26 @@
-# Se connecter
+## Logging In
+To log in to MetaOffice Pro, go to the MetaOfficePro personal application installed on your Teams tenant or visit the Teams team associated with MetaOffice Pro and select the application tab from the list of tabs.
+
+Authorize the Application
+Upon your first login to the application, you will be prompted to authorize it to access your camera and microphone. MetaOffice Pro does not record camera and audio streams of its users. The application only activates the streams to enable communication between participants, and no data is saved.
+
+## Create a New Window
+Best Practice
+
+We recommend all users to detach the MetaOffice Pro window to keep an eye on the application throughout the day. If you are connected to MetaOffice without opening a new window, switching to another Teams functionality will disconnect you from the application. Use the "pop out" button available in Microsoft Teams.
+
+Click on the "pop out" icon to open a new page where the application will open.
+
+Click on "Connect"
+Validate the connection to MetaOffice by selecting the "Connect" button.
+
+## Select a Map
+On the next screen, you will find the selection of the office you want to connect to. Depending on the organizations, a client may have one or more maps. On this screen, you will find all the maps configured by your administrator.
+
+ ![Select a map](/assets/img/map.png)
 
 
-Pour se connecter à MetaOffice Pro rendez-vous dans l'application personnelle MetaOfficePro installée sur votre tenant Teams, ou bien rendez-vous sur l'équipe Teams associée à MetaOffice Pro , et sélectionnez l'onglet de l'application dans la liste des tabulations. 
+## Device Configuration
+Just before connecting, a device configuration menu will appear. You can choose the input device for your microphone and the output device for your speakers. You can also select the camera. If you want to change these settings during the session, you can do so by going to the menu bar and selecting "Settings," then "Devices."
 
-
-## Autorisez l'application
-
-A votre première connexion dans l'application, il vous sera demandé d'autorisé celle-ci à accéder à votre caméra et microphone. MetaOffice Pro n'enregistre pas les flux caméras et audio de ses utilisateurs. L'application se contente d'activer les flux pour permettre les communications entre les différents participants, aucune donnée n'est sauvegardée.
-
-
-## Créez une nouvelle fenêtre
-** bonne pratique ** 
-
-Nous conseillons à tous les utilisateurs de détacher la fenêtre de MetaOffice Pro afin de pouvoir garder un oeil sur l'application dans le courant de la journée. En effet, si vous êtes connecté à MetaOffice sans avoir ouvert de nouvelle fenêtre, en basculant vers une autre fonctionnalité Teams, vous serez déconnecté de l'application. 
-Utilisez le bouton "afficher séparement" disponible depuis Microsoft Teams.
-
-Cliquez sur l'icône "afficher séparement" pour ouvrir une nouvelle page dans laquelle l'application s'ouvrira. 
-
-
-## Cliquez sur ce connecter
-Validez la connexion à MetaOffice en sélectionnant le bouton "se connecter"
-
-## Selectionnez une carte
-
-Vous retrouvez à l'écran suivant la sélection du bureau dans lequel vous souhaitez vous connecter. Suivant les organisations, il arrive qu'un client dispose d'une à plusieurs cartes. Sur cet écran vous trouverez l'ensemble des cartes paramétrées par votre administrateur. 
-
-
- ![Sélection de carte](/assets/img/map.png)
-
-## Configuration des Périphériques
-
-
-Juste avant de vous connecter, un menu de configuration de périphériques apparaît. Vous pouvez y choisir le périphérique d'entrée pour votre microphone et de sortie pour vos haut-parleurs. Vous pouvez également sélectionner la caméra. Si vous souhaitez modifier ces paramètres en cours de session, vous pouvez le faire en allant dans la barre de menu et en sélectionnant "Paramètres" puis "périphériques".
-
- ![Sélection des périphériques](/assets/img/peripheriques-start-app.png)
+ ![Select your device](/assets/img/peripheriques-start-app.png)

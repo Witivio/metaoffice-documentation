@@ -50,7 +50,7 @@ Modify your device settings from the Settings menu, devices. Here you can choose
 
 Change your appearance in the app by selecting "settings" - "Avatar". A variety of skin color, clothing, hairstyle, and accessory combinations are available. Use them to personalize your gaming experience.
 
- ![Modifiez votre avatar](/assets/img/avatar-modifications.png)
+ ![Choose an avatar](/assets/img/avatar-modifications.png)
 
 
 # General Features
@@ -67,7 +67,7 @@ The users panel allows you to see the people connected in the application. Just 
 Click on the "Invite" button and then select the recipients of your invitation. The recipients must have access to the channel in which the application is installed for it to be valid. Therefore, make sure to provide people who have access to the same environments as you.
 
 
-![Invitez des collègues](/assets/img/inviter.png) 
+![Invite your colleagues](/assets/img/inviter.png) 
 
 
 With the invitation feature, the recipients will receive a link allowing them to go directly to the team where the application is installed. All that remains is to search for MetaOffice Pro and go to the application.
@@ -78,7 +78,7 @@ With the invitation feature, the recipients will receive a link allowing them to
 Thanks to this feature, there is no need to traverse the entire map when you connect. Go near a meeting room or right next to your workstation to select a new respawn location. On your next login, you will start at this location.
 
 
-![Réapparaîssez où vous souhaitez ](/assets/img/reaparaitre.png)
+![Choose a respawn point ](/assets/img/reaparaitre.png)
 
 - Select "Respawn", "Create a respawn point" to configure a new point.
 
@@ -92,15 +92,15 @@ Use the "Focus" button to stay focused in the application. When this button is a
 
 
 
-## Réactions
+## Reactions
 
 This small menu allows you to use emotes. Feel free to use them in meetings or during relaxation moments.
 
 
 
-![Utilisez les émotes](/assets/img/emotes.png)
+![Use emotes](/assets/img/emotes.png)
 
-## Conversation. 
+## Conversation
 
 The conversation button allows you to chat with your collaborators in a text conversation. Take advantage of the available emotes and GIFs to interact with them. You can use the "conversation" panel in several cases:
 
@@ -108,8 +108,8 @@ Outside of a meeting room or exchanging with a colleague: the discussion space w
 
 Interacting with a colleague in and out of the meeting room: The discussion space feeds a private conversation between you. If a user joins you, the conversation history will not be disclosed. This new user will only have access to new messages since their arrival. If you leave MetaOffice, you still have the dedicated conversation tab in your Microsoft Teams conversations.
 
-## Microphone et Caméra
+## Microphone & camera
 
 The quick access Microphone and Camera buttons allow you to deactivate or activate these devices with one click. In this way, you can interact in the meeting room and take advantage of these options when it suits you.
 
-![Désactivez votre caméra et microphone](/assets/img/muted.png)
+![desactivate your microphone and camera](/assets/img/muted.png)
