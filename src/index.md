@@ -4,7 +4,7 @@ heroImage: /assets/img/MetaOfficePro-by-Witivio.png
 heroText: Welcome to MetaOffice Pro documentation website.
 tagline: We're glad you're here !
 actionText: Quick Start →
-actionLink: /guide/installation
+actionLink: /guide/install
 
 features:
 - title: Install MetaOffice Pro 
