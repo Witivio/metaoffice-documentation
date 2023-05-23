@@ -1,25 +1,20 @@
-## Intéractions MetaOffice
 
+# Interactions
 
-MetaOffice est un environnement de travail virtuel qui permet aux utilisateurs d'interagir et de collaborer avec leurs collègues. Les interactions sont facilitées par la présence d'avatar en 2D qui permettent aux utilisateurs de se représenter virtuellement dans une carte.
+MetaOffice is a virtual workspace that allows users to interact and collaborate with their colleagues. Interactions are facilitated by the presence of 2D avatars that allow users to represent themselves virtually on a map.
 
-## Intéractions dans les couloirs entre joueurs
+## Interactions in Corridors Between users
+To interact with another user in MetaOffice Pro, you need to be on a tile close to them. Once you are close, a video and voice communication between the two of you will start.
 
-Pour interagir avec un autre utilisateur dans MetaOffice, vous devez vous placer sur une case proche de celui-ci. Une fois proche une communication vidéo et vocale entre les deux se lance.
+In  corridors, group communications are possible. The number of people who can participate in a conversation depends on how many people are adjacent to each other. For example, if three people are adjacent to each other, they can all communicate together at the same time.
 
-Dans les couloirs de MetaOffice, les communications de groupe sont possibles. Le nombre de personnes qui peuvent participer à une conversation dépend du nombre de personnes collées les unes aux autres. Par exemple, si trois personnes sont collées les unes aux autres, elles peuvent communiquer toutes ensemble en même temps.
+It is important to note that in order for communications to proceed without interruption, it is recommended to remain still throughout the conversation. If you move, the communication will be interrupted. MetaOfficePro relies on principles of physical presence similar to the real world for corridor communications. If you are far away from your conversation partner, they will not be able to hear you.
 
-Il est important de noter que pour que les communications se déroulent sans interruption, il est recommandé de rester immobile pendant toute la durée de la conversation. Si vous bougez, la communication sera rompue. 
-En effet MetaOfficePro base ses communications dans les couloirs sur des principes de présence physique similaire au monde réel. Si vous êtes loin de votre interlocteur ce dernier ne pourra pas vous entendre.
+Finally, to end a conversation, simply move away from the participants. You can simply move away from them to interrupt the communication.
 
-Enfin, pour rompre une conversation, il suffit de s'éloigner des participants. Vous pouvez simplement vous déplacer loin d'eux pour interrompre la communication.
+## Interactions in Meeting Rooms
+Interactions in meeting rooms are different from those in corridors. When you enter a meeting room, you will notice that the entire room is highlighted and the rest of the map is grayed out. This room is a meeting room, and it is possible to have a group conversation throughout the room. It is not necessary to be physically close to other participants as long as you remain in the room.
 
-
-## Intéractions dans des salles de meeting
-
-Les interactions dans les salles de meeting sont différentes de celles dans les couloirs. Lorsque vous entrez dans une salle de meeting, vous remarquerez que toute la pièce est mise en évidence et que le reste de la carte est grisée. Cette salle est une salle de réunion, et il est possible d'y avoir une conversation de groupe dans toute la salle. Il n'est donc pas nécessaire d'être collé aux autres participants, tant que vous restez dans la salle.
-
-Dans une salle de meeting, il est également possible de collaborer avec d'autres utilisateurs en utilisant des outils de présentation, des tableaux blancs virtuels et d'autres fonctionnalités de collaboration. Ces outils peuvent être utilisés pour faciliter la discussion et la prise de décision en groupe.
-
+In a meeting room, it is also possible to collaborate with other users using presentation tools, virtual whiteboards, and other collaboration features. These tools can be used to facilitate discussion and group decision-making.
 
 
