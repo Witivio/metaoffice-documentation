@@ -13,7 +13,7 @@
 
 
 Meeting rooms are spaces specifically designed for collaborative work. You can access them by moving towards the door of the meeting room. Once inside, you can talk with your teammates and move freely in the space.
- ![Intérargir avec un utilisateur en salle de réunion](/assets/img/interactions-multi.png)
+ ![Intérargir avec un utilisateur en salle de réunion](/assets/img/meeting.png)
 A meeting room is a place in which a meeting is created starting from two users being physically in the same room at the same time. As soon as there is only one user left in the room, the meeting is over.
 
 
