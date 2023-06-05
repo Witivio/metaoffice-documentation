@@ -24,9 +24,6 @@ This feature is not hidden behind a button, but is rather a concept. Indeed, whe
 
 MetaOffice Pro is fully integrated with Microsoft Teams and uses the same communication system. This is why it is possible to switch directly to Teams from MetaOffice Pro. Use this feature to share your screen or to use the Loop components.
 
-## Restrict the Room
-
-With the restriction feature, enjoy better confidentiality for your meetings. It allows access to only a few collaborators using the panel at your disposal. Unauthorized users will not be able to enter the room until you have authorized them to do so.
 
 ## Conversation
 

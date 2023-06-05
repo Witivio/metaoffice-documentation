@@ -47,6 +47,9 @@ module.exports = {
           path:'/guide/install',
           collapsable: false,
           children: [
+            
+            ['fundamentals.md', 'foundamentals'],
+            ['Release-notes.md', 'release notes'],
             ['install.md', 'Installation'],
             ['login.md', 'Log in'],
             ['features.md', 'Features'],
