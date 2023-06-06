@@ -45,9 +45,14 @@ Modify your device settings from the Settings menu, devices. Here you can choose
 
 ## Avatar
 
-Change your appearance in the app by selecting "settings" - "Avatar". A variety of skin color, clothing, hairstyle, and accessory combinations are available. Use them to personalize your gaming experience.
+Change your appearance in the app by selecting "settings" - "Avatar". A variety of skin color, clothing, hairstyle, and accessory combinations are available. Use them to personalize your experience.
 
  ![Choose an avatar](/assets/img/avatar-modifications.png)
+
+
+## Backgrounds
+
+You can now enjoy this feature from the settings. Use the Blur effect, your own wallpapers, or those shared by your team administrator. With this feature, there's no need to disable your camera during calls with colleagues for a more serene experience.
 
 
 # General Features

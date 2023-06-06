@@ -4,7 +4,7 @@ heroImage: /assets/img/MetaOfficePro-by-Witivio.png
 heroText: Welcome to MetaOffice Pro documentation website.
 tagline: Transforming your digital workspace, one pixel at a time!
 actionText: Quick Start →
-actionLink: /guide/install
+actionLink: /guide/fundamentals
 
 
 ---
