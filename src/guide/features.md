@@ -29,6 +29,12 @@ MetaOffice Pro is fully integrated with Microsoft Teams and uses the same commun
 
 The conversation button allows you to chat with your collaborators in text conversation. Take advantage of the available emotes and GIFs to interact with them. You can even continue this conversation outside of MetaOffice Pro, using your Microsoft Teams chat tab.
 
+Not supported features : 
+
+- The users can not share images inside MetaOffice Pro
+- The users can not use the Teams Features inside the chat on MetaOffice Pro
+- The users can not copy paste inside the chat on MetaOffice Pro
+
 
 
 
@@ -104,11 +110,9 @@ This small menu allows you to use emotes. Feel free to use them in meetings or d
 
 ## Conversation
 
-The conversation button allows you to chat with your collaborators in a text conversation. Take advantage of the available emotes and GIFs to interact with them. You can use the "conversation" panel in several cases:
+The conversation button allows you to chat with your collaborators in a text conversation. Take advantage of the available emotes and GIFs to interact with them. You can use the "conversation" panel inside the meeting rooms. 
 
-Outside of a meeting room or exchanging with a colleague: the discussion space will feed the conversation thread available in the team where MetaOffice Pro has been installed. You can therefore express yourself and be visible to all people who have access to the application.
-
-Interacting with a colleague in and out of the meeting room: The discussion space feeds a private conversation between you. If a user joins you, the conversation history will not be disclosed. This new user will only have access to new messages since their arrival. If you leave MetaOffice, you still have the dedicated conversation tab in your Microsoft Teams conversations.
+ The discussion space feeds a private conversation between you. If a user joins you, the conversation history will not be disclosed. This new user will only have access to new messages since their arrival. If you leave MetaOffice, you still have the dedicated conversation tab in your Microsoft Teams conversations.
 
 ## Microphone & camera
 

@@ -18,3 +18,4 @@ Interactions in meeting rooms are different from those in corridors. When you en
 In a meeting room, it is also possible to collaborate with other users using presentation tools, virtual whiteboards, and other collaboration features. These tools can be used to facilitate discussion and group decision-making.
 
 
+
